@@ -1,2 +1,2 @@
 # Proyecto-SQL-Caso_Hotel_DataAndino-CLL
-Se desarrolla el proyecto enfocado a la empresa Hotel Data Andino con el fin de poner en práctica lo aprendido en el curso de SQL de Data academy con databricks.
+Se aplicó limpieza de datos, funciones de fecha y lógica condicional (CASE WHEN, CEIL) para modelar plazos y segmentar riesgos de cancelación. Mediante agregaciones avanzadas, se cuantificó una pérdida de $444K USD en comisiones y anulaciones tardías. Finalmente, cruces relacionales (JOINs) con tablas auxiliares auditaron la integridad operativa, fundamentando la necesidad de reestructurar las políticas de depósitos y penalizaciones según el comportamiento del cliente.
